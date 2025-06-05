@@ -56,4 +56,4 @@ This study is part of a broader multi-team international initiative. Additional 
 
 ## Contact
 
-**Francisco Izquierdo \|** [francisco.izqtar\@gmail.com](mailto:francisco.izqtar@gmail.com){.email}\
+**Francisco Izquierdo \|** [francisco.izqtar\@gmail.com](mailto:francisco.izqtar@gmail.com)\
