@@ -44,9 +44,9 @@ This study is part of a broader multi-team international initiative. Additional 
 
 -   **Goethel et al. (2024)**
 
-    Goethel, D. R., Berger, A. M., Hoyle, S. D., Lynch, P. D., Barceló, C., Deroba, J., ... & Urtizberea, A. (2024). ‘Drivin'with your eyes closed’: Results from an international, blinded simulation experiment to evaluate spatial stock assessments. *Fish and Fisheries*, *25*(3), 471-490. [https://doi.org/10.1111/faf.12819](#0){.uri}\
+    Goethel, D. R., Berger, A. M., Hoyle, S. D., Lynch, P. D., Barceló, C., Deroba, J., ... & Urtizberea, A. (2024). ‘Drivin'with your eyes closed’: Results from an international, blinded simulation experiment to evaluate spatial stock assessments. *Fish and Fisheries*, *25*(3), 471-490. [https://doi.org/10.1111/faf.12819](#0)\
     → SS3_A (ICES Team) code presented in this paper is available at:\
-    🔗 [https://github.com/GiancarloMCorrea/SpatialStockAssessment_SpanishGroup](#0){.uri}
+    🔗 [https://github.com/GiancarloMCorrea/SpatialStockAssessment_SpanishGroup](#0)
 
 -   **Berger et al. (in review)**
 
