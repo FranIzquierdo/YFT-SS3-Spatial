@@ -16,7 +16,7 @@ This repository is organized in two main parts, following the structure of the m
 
 ### 1. Model Development – Reference Dataset
 
-This section includes: - All R scripts used to run the sequential SS3 configurations, from the initial setup (S0) to the final selected model (S6.3) - Associated SS3 input files (`.ctl`, `.dat`, etc.) for each configuration step
+This section includes: - All R scripts used to run the sequential SS3 configurations, from the initial setup (S0) to the final selected model (S6.3) - Associated SS3 input files (`.ctl`, `.dat`, ss.exe, etc.) for each configuration step
 
 These model setups were applied to the reference (blinded) dataset provided by the simulation experiment.
 
