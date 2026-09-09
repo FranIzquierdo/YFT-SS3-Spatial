@@ -2,9 +2,9 @@
 
 This repository contains the R scripts and SS3 model configurations associated with the manuscript:
 
-> Izquierdo, F., Cousido-Rocha, M., Correa, G. M., Pennino, M.G., Berger, A.M., Goethel, D.R., Hoyle, S. D., Lynch, P. D. & Cerviño, S. (in review). *Tuning into Tuna: Investigating Spatial Complexity Tradeoffs in Stock Assessment Models Based on a High-Resolution Simulation Experiment of Yellowfin Tuna in the Indian Ocean*.
+> Izquierdo, F., Cousido-Rocha, M., Correa, G. M., Pennino, M.G., Berger, A.M., Goethel, D.R., Hoyle, S. D., Lynch, P. D. & Cerviño, S. (accepted). Canadian Journal of Fisheries and Aquatic Sciences. *Tuning into Tuna: Investigating Spatial Complexity Tradeoffs in Stock Assessment Models Based on a High-Resolution Simulation Experiment of Yellowfin Tuna in the Indian Ocean*.
 
-This study was conducted as part of the **Spatial Stock Assessment Simulation Experiment Whorkshop**, jointly organized by NOAA and NIWA. For more details and access to the full set of simulation materials and documentation, visit:
+This study was conducted as part of the **Spatial Stock Assessment Simulation Experiment Workshop**, jointly organized by NOAA and NIWA. For more details and access to the full set of simulation materials and documentation, visit:
 
 🔗 <https://github.com/aaronmberger-nwfsc/Spatial-Assessment-Modeling-Workshop>
 
@@ -48,12 +48,20 @@ This study is part of a broader multi-team international initiative. Additional 
     → SS3_A (ICES Team) code presented in this paper is available at:\
     🔗 [https://github.com/GiancarloMCorrea/SpatialStockAssessment_SpanishGroup](#0)
 
--   **Berger et al. (in review)**
+-   **Berger et al. (2026)**
 
-    *‘Building the (im)perfect beast’: Lessons for identifying adequate spatial stock assessment model complexity from an international, blinded high-resolution simulation experiment*. *Fish and Fisheries.*
+    Berger, A. M., Goethel, D. R., Hoyle, S. D., Lynch, P., Barceló, C., Dunn, A., ... & Urtizberea, A. (2026). ‘Building the (Im) perfect Beast’: Strategies for Identifying Appropriate Spatial Stock Assessment Model Complexity From an International, Blinded High‐Resolution Simulation Experiment. Fish and Fisheries, 27(2), 196-212.
 
 ------------------------------------------------------------------------
 
 ## Contact
 
 **Francisco Izquierdo \|** [francisco.izqtar\@gmail.com](mailto:francisco.izqtar@gmail.com)\
+
+------------------------------------------------------------------------
+
+## License and data
+
+Code and model configurations in this repository are released under the MIT License.
+
+Note that this repository does not contain the full simulation experiment project, which is described in Goethel et al. (2024). It only includes the Stock Synthesis input files of the model configurations presented in this specific manuscript, based on a single reference simulated dataset. For workshop documentation and related materials, see the repository linked above.
